@@ -1,3 +1,5 @@
+![Tinder logo](Tinder-Symbole.png)
+
 # Project 02: Tinder speed dating analysis
 
 **Certificate - Machine Learning Engineer**
