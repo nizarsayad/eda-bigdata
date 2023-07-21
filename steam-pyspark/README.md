@@ -1,6 +1,6 @@
 ![Steam logo](steam.jpeg)
 
-# Project 02: Tinder speed dating analysis
+# Project 02: Steam analysis
 
 **Certificate - Machine Learning Engineer**
 
