@@ -6,6 +6,8 @@
 
 This repository is part of the professional certification Machine Learning Engineer (Concepteur Développeur en Science des données) and represents Bloc 2 of the certification titled: "Exploratory Data Analysis". This bloc contains two projects, one focused on using traditional python libraries and the other big data focused using Pyspark on Databricks.
 
+The link to the Vidyard video is [here](https://share.vidyard.com/watch/rfx8huAMBJiB181631e5g2?)
+
 ## Projects Included
 
 ### 1. Project 02 - 1: Speed Dating
