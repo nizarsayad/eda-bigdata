@@ -1,3 +1,5 @@
 tutorial_eda.ipynb
 archive
 .DS_Store
+.env
+kayak-project
