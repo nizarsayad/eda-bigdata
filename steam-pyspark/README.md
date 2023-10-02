@@ -58,9 +58,6 @@ The project consists of several components:
 
 - `README.md`: This file provides an overview of the project.
 
-## Project Insights
-
-The project provides an analysis of the different factors that influence a successful match in a speed dating context. The results can be used to guide Tinder's matching algorithm and provide insights into what people find attractive in potential matches.
 
 ## Scope of the Project 
 
